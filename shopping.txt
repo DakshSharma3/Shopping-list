@@ -1,8 +1,0 @@
-Item name:chips
-Price:£1
-quantity:1
-____________
-Item name:crips
-Price:£2
-quantity:1
-____________
